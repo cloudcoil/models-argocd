@@ -1,6 +1,6 @@
 [project]
 name = "cloudcoil.models.argocd"
-version = "0.0.0"
+version = "3.5.2.0"
 description = "Versioned argocd models for cloudcoil"
 authors = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
 maintainers = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
